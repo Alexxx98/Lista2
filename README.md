@@ -4,3 +4,5 @@
 ```bash
 docker-compose up --build
 ```
+
+<h3>To run server<h3>
